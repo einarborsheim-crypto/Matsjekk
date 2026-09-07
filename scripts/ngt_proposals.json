@@ -1,0 +1,19 @@
+{
+  "generated_at": "2026-09-07T05:30:45.019000+00:00",
+  "proposal_count": 1,
+  "proposals": [
+    {
+      "actor": "NorgesGruppen",
+      "matched_actor_alias": "spar",
+      "gmo_supplier": "Bayer Crop Science",
+      "matched_supplier_alias": "monsanto",
+      "source_name": "GMWatch - latest news",
+      "source_url": "https://www.gmwatch.org/en/106-news/latest-news",
+      "snippet": "...deregulation Details Published: 04 June 2026 Government failed to investigate consequences of its decision to deregulate gene-edited organisms before removing longstanding safeguards relating to transparency, traceability, labelling and regulatory oversight Read more &hellip; Synbio milk nutritionally inferior to cow’s milk; contains 93 uncharacterised fungal metabolites and 236 fungal proteins D...",
+      "detected_at": "2026-09-07T05:30:45.018979+00:00",
+      "confidence": "low",
+      "status": "needs_review",
+      "note": "Co-occurrence in the same source. VERIFY the source manually before promoting."
+    }
+  ]
+}
