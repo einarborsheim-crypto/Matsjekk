@@ -1164,6 +1164,30 @@
     "address": "Perälänraitti"
   },
   {
+    "id": 13912200005,
+    "name": "Uljaan tila",
+    "country": "Finland",
+    "region": null,
+    "municipality": null,
+    "products": [],
+    "website": null,
+    "lat": 60.5231012,
+    "lon": 25.6491169,
+    "address": null
+  },
+  {
+    "id": 14032619832,
+    "name": "Saaren luomiosuuskunta",
+    "country": "Finland",
+    "region": null,
+    "municipality": null,
+    "products": [],
+    "website": null,
+    "lat": 61.4498689,
+    "lon": 21.8732836,
+    "address": null
+  },
+  {
     "id": 76736163,
     "name": "Riista- ja kalatalouden tutkimuslaitos",
     "country": "Finland",
@@ -1364,7 +1388,7 @@
     "products": [],
     "website": "https://www.vantaa.fi/fi/palveluhakemisto/toimipiste/seutulan-maisemakukkapelto",
     "lat": 60.3474761,
-    "lon": 24.8705792,
+    "lon": 24.8705828,
     "address": "Katriinantie"
   },
   {
@@ -1512,6 +1536,18 @@
     "address": null
   },
   {
+    "id": 1481567819,
+    "name": "Sale Hervantajärvi",
+    "country": "Finland",
+    "region": null,
+    "municipality": "Tampere",
+    "products": [],
+    "website": "https://www.s-kaupat.fi/myymala/sale-hervantajarvi/726396281",
+    "lat": 61.4390273,
+    "lon": 23.8715293,
+    "address": "Makkarajärvenkatu"
+  },
+  {
     "id": 11169847,
     "name": "Mustamaa",
     "country": "Finland",
@@ -1560,16 +1596,16 @@
     "address": null
   },
   {
-    "id": 13912200005,
-    "name": "Uljaan tila",
+    "id": 839420642,
+    "name": "Seutulan maisemakukkapelto",
     "country": "Finland",
     "region": null,
-    "municipality": null,
+    "municipality": "Vantaa",
     "products": [],
-    "website": null,
-    "lat": 60.5231012,
-    "lon": 25.6491169,
-    "address": null
+    "website": "https://www.vantaa.fi/fi/palveluhakemisto/toimipiste/seutulan-maisemakukkapelto",
+    "lat": 60.3474761,
+    "lon": 24.8705792,
+    "address": "Katriinantie"
   },
   {
     "id": 13045862703,
